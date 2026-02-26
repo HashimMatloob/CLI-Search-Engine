@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1765625146 source:c:\users\hashi\onedrive - higher education commission\desktop\3rd\code\searchengine\main.cpp
+	<iostream>
+	<string>
+	"Indexer.h"
+	"Searcher.h"
+
+1765625146 c:\users\hashi\onedrive - higher education commission\desktop\3rd\code\searchengine\include\indexer.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<unordered_map>
+	"Utils.h"
+
+1765625146 c:\users\hashi\onedrive - higher education commission\desktop\3rd\code\searchengine\include\utils.h
+	<string>
+	<vector>
+
+1765625573 c:\users\hashi\onedrive - higher education commission\desktop\3rd\code\searchengine\include\searcher.h
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+	<unordered_map>
+	"Indexer.h"
+	"Utils.h"
+
+1765625146 source:c:\users\hashi\onedrive - higher education commission\desktop\3rd\code\searchengine\src\searcher.cpp
+	"Searcher.h"
+
+1765625146 source:c:\users\hashi\onedrive - higher education commission\desktop\3rd\code\searchengine\src\utils.cpp
+	"Utils.h"
+
+1765625573 source:c:\users\hashi\onedrive - higher education commission\desktop\3rd\code\searchengine\src\indexer.cpp
+	"Indexer.h"
+
